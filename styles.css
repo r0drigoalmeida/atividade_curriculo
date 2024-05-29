@@ -1,0 +1,47 @@
+body, ul {
+    margin: 100;
+    padding: 50;
+}
+
+body{
+    font-family: 'ARIAL', sans-serif;
+    background-color: #D3D3D3;
+    color: #111
+}
+header {
+    width: 50%;
+    background-color: #2220745f;
+    color: #fff;
+    padding: 20px;
+    margin: 10px 0;
+    text-align: center;
+    border-radius: 20px;
+    
+    }
+section {
+    width: 50%;
+    margin: 0 auto;
+    background-color: #fff;
+    padding: 20px;
+    margin: 10px 0;
+    border-radius: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    
+}
+    .habilidade {
+        margin-bottom: 10px;
+    }
+    .titulo {
+        font-weight: bold;
+    }
+    .barra {
+        height: 20px;
+        background-color: #f0f0f0;
+        border-radius: 10px;
+        margin-top: 5px;
+    }
+    .progresso {
+        height: 100%;
+        border-radius: 10px;
+        background-color: #3cac3c;
+}
